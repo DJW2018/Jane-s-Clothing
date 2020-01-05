@@ -1,0 +1,13 @@
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\bin\Debug\JanesClothingDataAware.exe.config
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\bin\Debug\JanesClothingDataAware.exe
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\bin\Debug\JanesClothingDataAware.pdb
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.csprojResolveAssemblyReference.cache
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.frmCustomers.resources
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.Properties.Resources.resources
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.csproj.GenerateResource.Cache
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.exe
+c:\users\cabood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.pdb
+C:\Users\CAbood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.frmCustomersAdd.resources
+C:\Users\CAbood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.frmMainForm.resources
+C:\Users\CAbood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.frmProducts.resources
+C:\Users\CAbood\documents\visual studio 2015\Projects\M9ActivitiesDataAware\JanesClothingDataAware\obj\Debug\JanesClothingDataAware.frmProductsAdd.resources
